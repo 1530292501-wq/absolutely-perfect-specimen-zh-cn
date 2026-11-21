@@ -1,6 +1,6 @@
 # Absolutely Perfect Specimen 简体中文补丁
 
-《绝对完美的实验体》是 chambersoft 制作的视觉小说。这个非官方、AI 辅助制作的简体中文补丁适配 **Windows PC 版 1.2.1**，需要自备原版游戏。
+《绝对完美的实验体》是 chambersoft 制作的视觉小说。本简体中文补丁由 **Codex 全程制作**，涵盖翻译、补丁开发、安装工具及测试。补丁为非官方本地化，适配 **Windows PC 版 1.2.1**，需要自备原版游戏。
 
 [下载简体中文补丁](https://github.com/1530292501-wq/absolutely-perfect-specimen-zh-cn/releases/latest) · [获取原版游戏](https://chambersoft.itch.io/absolutely-perfect-specimen)
 
